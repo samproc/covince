@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/covince/static/css/main.9049ef73.chunk.css",
-    "main.js": "/covince/static/js/main.34b9fc8b.chunk.js",
-    "main.js.map": "/covince/static/js/main.34b9fc8b.chunk.js.map",
+    "main.css": "/covince/static/css/main.37f537b6.chunk.css",
+    "main.js": "/covince/static/js/main.bae62bb3.chunk.js",
+    "main.js.map": "/covince/static/js/main.bae62bb3.chunk.js.map",
     "runtime-main.js": "/covince/static/js/runtime-main.10f6833d.js",
     "runtime-main.js.map": "/covince/static/js/runtime-main.10f6833d.js.map",
     "static/css/2.dd0686e5.chunk.css": "/covince/static/css/2.dd0686e5.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.c9018b5a.chunk.js.map": "/covince/static/js/3.c9018b5a.chunk.js.map",
     "index.html": "/covince/index.html",
     "static/css/2.dd0686e5.chunk.css.map": "/covince/static/css/2.dd0686e5.chunk.css.map",
-    "static/css/main.9049ef73.chunk.css.map": "/covince/static/css/main.9049ef73.chunk.css.map",
+    "static/css/main.37f537b6.chunk.css.map": "/covince/static/css/main.37f537b6.chunk.css.map",
     "static/js/2.71dfc70f.chunk.js.LICENSE.txt": "/covince/static/js/2.71dfc70f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10f6833d.js",
     "static/css/2.dd0686e5.chunk.css",
     "static/js/2.71dfc70f.chunk.js",
-    "static/css/main.9049ef73.chunk.css",
-    "static/js/main.34b9fc8b.chunk.js"
+    "static/css/main.37f537b6.chunk.css",
+    "static/js/main.bae62bb3.chunk.js"
   ]
 }
