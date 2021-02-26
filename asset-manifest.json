@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covince/static/css/main.c382dc3b.chunk.css",
-    "main.js": "/covince/static/js/main.ca71bc19.chunk.js",
-    "main.js.map": "/covince/static/js/main.ca71bc19.chunk.js.map",
+    "main.js": "/covince/static/js/main.4e05ceef.chunk.js",
+    "main.js.map": "/covince/static/js/main.4e05ceef.chunk.js.map",
     "runtime-main.js": "/covince/static/js/runtime-main.2e67de09.js",
     "runtime-main.js.map": "/covince/static/js/runtime-main.2e67de09.js.map",
     "static/css/2.dd0686e5.chunk.css": "/covince/static/css/2.dd0686e5.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.dd0686e5.chunk.css",
     "static/js/2.7a6176ec.chunk.js",
     "static/css/main.c382dc3b.chunk.css",
-    "static/js/main.ca71bc19.chunk.js"
+    "static/js/main.4e05ceef.chunk.js"
   ]
 }
